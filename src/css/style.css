@@ -134,6 +134,11 @@ button:active {
 
     #divInputUsuario::before {
         content: url(../image/do-utilizador-24.png);
+        /* 
+        https://www.flaticon.com/br/icone-gratis/do-utilizador_11215621
+        https://www.flaticon.com/br/autores/arslan-haider
+        Arslan Haider
+        */
     }
 
     #divInputSenha {
@@ -142,6 +147,12 @@ button:active {
 
     #divInputSenha::before {
         content: url(../image/cadeado-trancado-24.png);
+        /*
+        https://www.flaticon.com/br/icone-gratis/cadeado-trancado_61457
+        https://www.flaticon.com/br/autores/freepik
+        Freepik
+        https://www.freepik.com
+        */
     }
 
     input {
